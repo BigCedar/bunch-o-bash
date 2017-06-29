@@ -5,6 +5,11 @@ by the Bash<sup>[[1]]</sup> <sup>[[2]]</sup> scripting language / Shell.
 
 
 
+## Scripts:
+- [array_diff.sh](array_diff.sh)
+  Script that finds the common and unique items between two arrays
+
+
 Links:
 ------
 - [GNU Bash][1]
